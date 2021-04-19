@@ -1,0 +1,82 @@
+[
+  {"id": 0, 
+    "is_best_seller": false,
+    "nama": "Bayi", 
+    "harga": "<span class='line-through'>Rp 19.900</span>",
+    "harga_diskon": "Rp <span class='flex items-start font-bold'><span class='text-6xl'>14</span>.900</span>/bln", 
+    "pengguna": 938, 
+    "features": [
+      "<span class='font-bold'>0.5X RESOURCE POWER</span>",
+      "<span class='font-bold'>500MB</span> Disk Space",
+      "<span class='font-bold'>Unlimited</span> Bandwith",
+      "<span class='font-bold'>Unlimited</span> Databases",
+      "<span class='font-bold'>1</span> Domain",
+      "<span class='font-bold'>Instant</span> Backup",
+      "<span class='font-bold'>Unlimited SSL</span> Gratis Selamanya"
+    ],
+    "button": "Pilih Sekarang"
+  },
+  {"id": 1, 
+    "is_best_seller": false,
+    "nama": "Pelajar", 
+    "harga": "<span class='line-through'>Rp 46.900</span>", 
+    "harga_diskon": "Rp <span class='flex items-start font-bold'><span class='text-6xl'>23</span>.450</span>/bln", 
+    "pengguna": 4168, 
+    "features": [
+      "<span class='font-bold'>1X RESOURCE POWER</span>",
+      "<span class='font-bold'>Unlimited</span> Disk Space",
+      "<span class='font-bold'>Unlimited</span> Bandwith",
+      "<span class='font-bold'>Unlimited</span> POP3 Email",
+      "<span class='font-bold'>Unlimited</span> Databases",
+      "<span class='font-bold'>10</span> Addon Domains",
+      "<span class='font-bold'>Instant</span> Backup",
+      "<span class='font-bold'>Domain Gratis</span> Selamanya",
+      "<span class='font-bold'>Unlimited SSL</span> Gratis Selamanya"
+    ],
+    "button": "Pilih Sekarang"
+  },
+  {"id": 2, 
+    "is_best_seller": true,
+    "nama": "Personal", 
+    "harga": "<span class='line-through'>Rp 58.900</span>", 
+    "harga_diskon": "Rp <span class='flex items-start font-bold'><span class='text-6xl'>38</span>.900</span>/bln", 
+    "pengguna": 10017, 
+    "features": [
+      "<span class='font-bold'>2X RESOURCE POWER</span>",
+      "<span class='font-bold'>Unlimited</span> Disk Space",
+      "<span class='font-bold'>Unlimited</span> Bandwith",
+      "<span class='font-bold'>Unlimited</span> POP3 Email",
+      "<span class='font-bold'>Unlimited</span> Databases",
+      "<span class='font-bold'>Unlimited</span> Addon Domains",
+      "<span class='font-bold'>Instant</span> Backup",
+      "<span class='font-bold'>Domain Gratis</span> Selamanya",
+      "<span class='font-bold'>Unlimited SSL</span> Gratis Selamanya",
+      "<span class='font-bold'>Private</span> Name Server",
+      "<span class='font-bold'>SpamAssasin</span> Mail Protection"
+    ],
+    "button": "Pilih Sekarang"
+  },
+  {"id": 3, 
+    "is_best_seller": false,
+    "nama": "Bisnis", 
+    "harga": "<span class='line-through'>Rp 109.900</span>", 
+    "harga_diskon": "Rp <span class='flex items-start font-bold'><span class='text-6xl'>65</span>.900</span>/bln", 
+    "pengguna": 3552, 
+    "features": [
+      "<span class='font-bold'>3X RESOURCE POWER</span>",
+      "<span class='font-bold'>Unlimited</span> Disk Space",
+      "<span class='font-bold'>Unlimited</span> Bandwith",
+      "<span class='font-bold'>Unlimited</span> POP3 Email",
+      "<span class='font-bold'>Unlimited</span> Databases",
+      "<span class='font-bold'>Unlimited</span> Addon Domains",
+      "<span class='font-bold'>Magic Auto</span> Backup & Restore",
+      "<span class='font-bold'>Domain Gratis</span> Selamanya",
+      "<span class='font-bold'>Unlimited SSL</span> Gratis Selamanya",
+      "<span class='font-bold'>Private</span> Name Server",
+      "<span class='font-bold'>Prioritas</span> Layanan Support",
+      "<span class='flex justify-center space-x-2'><i class='text-blue-500 fas fa-star'></i><i class='text-blue-500 fas fa-star'></i><i class='text-blue-500 fas fa-star'></i><i class='text-blue-500 fas fa-star'></i><i class='text-blue-500 fas fa-star'></i></span>",
+      "<span class='font-bold'>SpamExpert</span> Pro Mail Protection"
+    ],
+   "button": "Diskon 40%"
+  }
+]
